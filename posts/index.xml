@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Maestroscuro&#39;s Blog</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on Maestroscuro&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 15 May 2019 20:08:37 +0200</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Blog</title>
+            <link>/posts/my-first-post/</link>
+            <pubDate>Wed, 15 May 2019 20:08:37 +0200</pubDate>
+            
+            <guid>/posts/my-first-post/</guid>
+            <description>First Page This is the first page of this blog.</description>
+            <content type="html"><![CDATA[
+
+<h1 id="first-page">First Page</h1>
+
+<p>This is the first page of this blog.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

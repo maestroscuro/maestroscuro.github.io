@@ -6,9 +6,28 @@
     <description>Recent content on Maestroscuro&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 16 May 2019 22:15:35 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 16 May 2019 22:15:35 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About Me I will eventually write some stuff about me here.</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Wed, 15 May 2019 20:08:37 +0200</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>First Page This is the first page of this blog.</description>
+    </item>
     
   </channel>
 </rss>
